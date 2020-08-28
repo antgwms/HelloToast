@@ -1,3 +1,3 @@
 # HelloToast
 
-//Android app with toast counter as part of Android Fundamentals
+Android app with toast counter as part of Android Fundamentals
